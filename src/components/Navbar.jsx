@@ -2,7 +2,7 @@ export default function Navbar() {
   return (
     <header className="navbar">
       <div className="container nav-inner">
-        <a className="brand" href="#home">ZA</a>
+        <a className="brand" href="#home">ZAIN</a>
         <nav className="nav-links" aria-label="Primary navigation">
           <a href="#home">Home</a>
           <a href="#about">About</a>
